@@ -416,3 +416,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,python,windows,osx,macos,linux
 
+setup-environment.sh
