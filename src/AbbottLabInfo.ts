@@ -4,10 +4,11 @@ import {
   MarsLabInfo
 } from 'radx-mars-lib'
 
-// Setup our lab information.  Lab information is specific to the sender and
-// is provided by a governing authority.  It identifies the ISO and CLIA
-// designation of the Lab authorized to collect and report test results.
-
+/**
+ * Setup our lab information.  Lab information is specific to the sender and
+ * is provided by a governing authority.  It identifies the ISO and CLIA
+ * designation of the Lab authorized to collect and report test results.
+ */
 export default class AbbottLabInfo extends MarsLabInfo {
   constructor () {
     super(

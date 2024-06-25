@@ -5,9 +5,11 @@ import {
   Test
 } from 'radx-mars-lib'
 
-// Define our test.  The test information may be gathered from the NIH
-// PowerBI dashboard.  For us, this test information represents the
-// Abbott BinaxNow COVID test.
+/**
+ * Define our test.  The test information may be gathered from the NIH
+ * PowerBI dashboard.  For us, this test information represents the
+ * Abbott BinaxNow COVID test.
+ */
 export default class BinaxNowCovidTest extends Test {
   constructor () {
     super('94558-4',
