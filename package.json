@@ -19,7 +19,7 @@
     "@aws-sdk/client-s3": "^3.440.0",
     "react-native-fetch-blob": "^0.10.8",
     "radx-mars-lib": "git+https://github.com/NIBIB/radx-mars-lib.git#main",
-    "reportstream-mars-lib": git+https://github.com/NIBIB/reportstream-mars-lib.git#main",
+    "reportstream-mars-lib": "git+https://github.com/NIBIB/reportstream-mars-lib.git#main",
     "aims-mars-lib": "git+https://github.com/NIBIB/aims-mars-lib.git#main"
   },
   "devDependencies": {
